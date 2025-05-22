@@ -75,6 +75,7 @@ lib/
 ## Deployment
 
 This project can be easily deployed on Vercel or any other hosting platform that supports Next.js.
+https://dashboardsd.netlify.app/
 
 ## License
 
